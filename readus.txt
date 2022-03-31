@@ -1,6 +1,6 @@
+Hi this is CG Customer with a smile
 They use a large, bold Verdana font for the headings and a normal size and weight Verdana font for the body text.
 They use an image named logo.gif floating within the content and on the right side of the page.
 All text is black except for subheadings, which are purple.
 They have margins on the left side and at the top.
 There is vertical space between lines of text.
-The footnotes are centered and in small print.
